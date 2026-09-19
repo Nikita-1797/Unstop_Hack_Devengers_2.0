@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # 🌾 KrishiSetu (कृषिसेतु) - All-in-One Smart Farming Ecosystem
 
 An all-in-one digital agriculture platform engineered for smallholder and rural Indian farmers. KrishiSetu unifies certified agricultural inputs, smart farm labor matching, equipment & livestock rental, government scheme eligibility discovery, hyperlocal weather alerts, interactive store maps, and voice-assisted AI agronomy into a single, high-performance web ecosystem.
 
----
+
 
 ## 🚀 How to Run the Application
 
