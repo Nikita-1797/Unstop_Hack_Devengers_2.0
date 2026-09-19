@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 KrishiSetu (कृषिसेतु) - All-in-One Smart Farming Ecosystem
 
 An all-in-one digital agriculture platform engineered for smallholder and rural Indian farmers. KrishiSetu unifies certified agricultural inputs, smart farm labor matching, equipment & livestock rental, government scheme eligibility discovery, hyperlocal weather alerts, interactive store maps, and voice-assisted AI agronomy into a single, high-performance web ecosystem.
@@ -79,3 +80,7 @@ Switch languages instantly in the top bar:
 - **Voice**: Web Speech API (`SpeechRecognition` + `SpeechSynthesis`)
 - **Persistence**: Reactive `localStorage` Context layer (`useAgriStore`)
 - **AI**: KrishiSetu Heuristic Agronomy Engine + Optional Google Gemini API Integration
+=======
+# Unstop_Hack_Devengers_2.0
+🌾 An all-in-one smart agriculture platform built for Hack Devengers 2.0, empowering farmers with digital tools, insights, and resources in one place. It helps farmers make informed decisions, improve productivity, manage farming activities, and access essential resources through a simple, scalable, and user-friendly platform.
+>>>>>>> 5d22ee9ccc49bffb6ecc537d47c47fced3ca29e9
